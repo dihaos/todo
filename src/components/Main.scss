@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    gap: 15px;
+
+    .task {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+        border-radius: 20px;
+        cursor: pointer;
+
+        &:hover {
+            opacity: 0.5;
+        }
+    }
+}
