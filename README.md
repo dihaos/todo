@@ -2,7 +2,7 @@
 
 ## Stack
 
-JS
-React
-Sass(SCSS)
-Bootstrap 
+- TypeScript
+- React
+- Sass(SCSS)
+- Material UI 
